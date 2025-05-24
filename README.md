@@ -67,11 +67,6 @@ streamlit run app.py
 
 ---
 
-## 📈 Example Outputs
-
-![Example Screenshot](link-to-your-screenshot-if-needed)
-
----
 
 ## ✨ Future Enhancements
 
@@ -83,10 +78,7 @@ streamlit run app.py
 
 ## 📬 Contact
 
-For questions or collaborations: [your-email@example.com](mailto:your-email@example.com)
+For questions or collaborations: (mailto:prasheshkarmacharya999@gmail.com)
 
 ---
 
-## 📝 License
-
-MIT License. See `LICENSE` file for details.
